@@ -9,13 +9,15 @@ The Fast.AI forums can be found at: https://forums.fast.ai
 
 # Overall Schedule:
 
-* Week 1: Introduction to Image Classification
-* Week 2: Further with Image Classification
-* Week 3: Introduction to Tabular Data
-* Week 4: Pandas Lab and Tabular Regression
-* Week 5: Image Regression
-* Week 6: Exploring the Callback System
-* Week 7: Exploring Optimizers
-* Week 8: Neural Networks from Scratch
-* Week 9: Segmentation and Language Models
-* Week 10: Object Detection and General Adversarial Networks (GAN's)
+| Week |                           Topic                           |
+|:----:|:---------------------------------------------------------:|
+|   1  |            Introduction to Image Classification           |
+|   2  |             Further with Image Classification             |
+|   3  |                Introduction to Tabular Data               |
+|   4  |             Pandas Demo and Tabular Regression            |
+|   5  |                      Image Regression                     |
+|   6  |               Exploring the Callback System               |
+|   7  |                    Exploring Optimizers                   |
+|   8  |                Neural Networks from Scratch               |
+|   9  |           Image Segmentation and Language Models          |
+|  10  | Object Detection and General Adversarial Networks (GAN's) |
