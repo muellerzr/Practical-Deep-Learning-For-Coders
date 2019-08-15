@@ -9,15 +9,15 @@ The Fast.AI forums can be found at: https://forums.fast.ai
 
 # Overall Schedule:
 
-| Week |                           Topic                           |
-|:----:|:---------------------------------------------------------:|
-|   1  |            Introduction to Image Classification           |
-|   2  |             Further with Image Classification             |
-|   3  |                Introduction to Tabular Data               |
-|   4  |             Pandas Demo and Tabular Regression            |
-|   5  |                      Image Regression                     |
-|   6  |               Exploring the Callback System               |
-|   7  |                    Exploring Optimizers                   |
-|   8  |                Neural Networks from Scratch               |
-|   9  |           Image Segmentation and Language Models          |
-|  10  | Object Detection and General Adversarial Networks (GAN's) |
+|  | Tuesday 5-6:30pm | Friday  4-5:30pm |
+|:------:|:-------------------------------------------:|:--------------------------------------------------------------------------:|
+| **Week 1** | Introduction | Introduction |
+| **Week 2** | Custom computer vision tasks | State of the art in Computer Vision |
+| **Week 3** | Introduction to Tabular modeling and pandas | Pandas workshop and feature engineering |
+| **Week 4** | Tabular and Image Regression | Feature importance and advanced feature  engineering |
+| **Week 5** | Natural Language Processing | State of the art in NLP |
+| **Week 6** | Segmentation | Kaggle Introducion with Segmentation |
+| **Week 7** | Computer vision from scratch | NLP from scratch |
+| **Week 8** | Callbacks | Optimizers |
+| **Week 9** | Generative Adversarial Networks | Research time / presentations |
+| **Week 10** | Putting models into production | Putting models into production |
