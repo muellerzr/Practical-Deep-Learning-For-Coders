@@ -9,7 +9,7 @@ The Fast.AI forums can be found at: https://forums.fast.ai
 
 # Overall Schedule:
 
-|  | Tuesday 5-6:30pm | Friday  4-5:30pm |
+|  | Tuesday 4-5:15pm | Friday 5-6:30pm |
 |:------:|:-------------------------------------------:|:--------------------------------------------------------------------------:|
 | **Week 1** | Introduction | Introduction |
 | **Week 2** | Custom computer vision tasks | State of the art in Computer Vision |
