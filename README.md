@@ -1,6 +1,6 @@
 <img src = "https://cdn-images-1.medium.com/max/696/1*bUZKHfAugVeXAkl0TGClCA.png" height ='125'/> <img src = "https://drive.google.com/uc?export=view&id=1lTEUUVke6Y02P9Hr30ZTG56390e7RRLG" height = '150'/>
 
-# Practical Deep Learning for Coders 
+# Practical Deep Learning for Coders
 Material for the University of West Florida's AIRG Proctor of Fast.AI's course. This course is originally done by Jeremy Howard and Rachel Thomas, and is taught at the University by course alumni. 
 
 The course can be found here: https://course.fast.ai
